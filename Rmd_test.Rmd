@@ -1,0 +1,19 @@
+---
+title: "Rmd_test"
+output: github_document
+date: "2024-09-16"
+---
+
+##Title Test
+#Subtitle Test
+
+```{r cars}
+plot(cars)
+```
+
+
+
+```{r}
+plot(iris)
+```
+
